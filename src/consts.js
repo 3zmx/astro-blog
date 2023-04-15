@@ -1,5 +1,5 @@
 export const SITE_TITLE = `98K'S Blog`;
-export const SITE_DESCRIPTION = 'Site Description';
+export const SITE_DESCRIPTION = '98k is a blog that shares information about programming software.';
 export const SITE_EMAIL = 'a@b.com'
 export const SITE_NAME = '98K';
 export const SITE_URL = "https://98k.pages.dev";
