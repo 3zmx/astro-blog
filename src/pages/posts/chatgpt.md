@@ -11,7 +11,7 @@ cover:
     alt: 'chatgpt'
 
 tags: ["ChatGPT", "OpenAI" ]
-theme: 'dark'
+theme: 'light'
 featured: true
 ---
 
